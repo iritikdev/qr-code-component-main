@@ -32,6 +32,13 @@ body {
     width: var(--card-width);
     background-color: var(--color-white);
     border-radius: 25px;
+    box-shadow:
+        0.7px 0.9px 6.7px -16px rgba(0, 0, 0, 0.033),
+        1.7px 2.1px 16.2px -16px rgba(0, 0, 0, 0.045),
+        3.1px 3.9px 30.4px -16px rgba(0, 0, 0, 0.054),
+        5.6px 6.9px 54.3px -16px rgba(0, 0, 0, 0.062),
+        10.4px 13px 101.5px -16px rgba(0, 0, 0, 0.073),
+        25px 31px 243px -16px rgba(0, 0, 0, 0.1);
 }
 
 
